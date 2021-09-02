@@ -8,6 +8,7 @@ public class BootStartApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootStartApplication.class, args);
+		System.out.println("Start server!!");
 	}
 
 }
